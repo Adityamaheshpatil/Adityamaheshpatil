@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya M Patil</h1>
 
- 📫 How to reach me adityamaheshpatil0303@gmaail.com
+ 📫 How to reach me adityamaheshpatil0303@gmail.com
  
 👋 Final-year Computer Science student 
 
